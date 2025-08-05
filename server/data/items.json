@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1745804705888,
+    "userId": 1745804543548,
+    "title": "wallet",
+    "description": "brown color",
+    "category": "wallet",
+    "location": "kommadhi",
+    "imageUrl": "https://res.cloudinary.com/deasmiprq/image/upload/v1745804704/xz1xlbpu537rlzkeimdm.jpg",
+    "type": "lost",
+    "date": "2025-04-28T01:45:05.888Z"
+  },
+  {
+    "id": 1745816695587,
+    "userId": 1745804543548,
+    "title": "necklace",
+    "description": "gold",
+    "category": "necklace",
+    "location": "vizag",
+    "imageUrl": "https://res.cloudinary.com/deasmiprq/image/upload/v1745816694/psaum1oi9zqmtrbl27ev.jpg",
+    "type": "lost",
+    "date": "2025-04-28T05:04:55.587Z"
+  },
+  {
+    "id": 1745816721795,
+    "userId": 1745804543548,
+    "title": "mobile",
+    "description": "redmi",
+    "category": "mobile",
+    "location": "kommadhi",
+    "imageUrl": "https://res.cloudinary.com/deasmiprq/image/upload/v1745816720/lpx8ath6oojnljlo2tio.jpg",
+    "type": "lost",
+    "date": "2025-04-28T05:05:21.795Z"
+  },
+  {
+    "id": 1748680562669,
+    "userId": 1748680482858,
+    "title": "watch",
+    "description": "watch",
+    "category": "electronic",
+    "location": "tekkali",
+    "imageUrl": "https://res.cloudinary.com/deasmiprq/image/upload/v1748680561/f10seos4ia7ne4a4uhwv.webp",
+    "type": "lost",
+    "date": "2025-05-31T08:36:02.669Z"
+  },
+  {
+    "id": 1752328063133,
+    "userId": 1748680482858,
+    "title": "watch",
+    "description": "watch",
+    "category": "watch",
+    "location": "sivini",
+    "imageUrl": "https://res.cloudinary.com/deasmiprq/image/upload/v1752328056/s3s9xsedv8ih3fuypc1t.webp",
+    "type": "lost",
+    "date": "2025-07-12T13:47:43.133Z"
+  }
+]

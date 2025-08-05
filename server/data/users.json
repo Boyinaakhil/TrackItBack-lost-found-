@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1748680482858,
+    "email": "akhil@gmail.com",
+    "password": "$2b$10$1u0XeAGrcB7nThQRlz49UOITVhEZjsjaDbp0YjOtB9qVEB/sHud2i"
+  },
+  {
+    "id": 1748680581138,
+    "email": "pavan@gmail.com",
+    "password": "$2b$10$FFFQXNrvcHcERGMj4CU0z.Qz4v4cCg6lnmakiKzjUfeF.12/PEO.C"
+  },
+  {
+    "id": 1752328349580,
+    "email": "mani@gmail.com",
+    "password": "$2b$10$jxLWQXuOw8dhfXI/.iGAy.AWEFLvdjukaIBYEbn9i2kXiB4NcG8SW"
+  },
+  {
+    "id": 1753284060824,
+    "email": "hashith@gmail.com",
+    "password": "$2b$10$NwLMV2.drgltbN3Aj.FfkeZZzTf4awbIAeyTT1pK02Gnbj6oA8V0K"
+  }
+]

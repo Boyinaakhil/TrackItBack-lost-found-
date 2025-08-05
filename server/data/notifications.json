@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1744359487133,
+    "fromUserId": 1744359380986,
+    "toUserId": 1744359257012,
+    "itemId": 1744359330367,
+    "message": "Your item \"mobiile\" may have been found.",
+    "date": "2025-04-11T08:18:07.133Z",
+    "read": true
+  },
+  {
+    "id": 1744360960126,
+    "fromUserId": 1744360835099,
+    "toUserId": 1744360348835,
+    "itemId": 1744360576787,
+    "message": "Your item \"wallet\" may have been found.",
+    "date": "2025-04-11T08:42:40.126Z",
+    "read": true
+  },
+  {
+    "id": 1744786970506,
+    "fromUserId": 1744786873200,
+    "toUserId": 1744786660582,
+    "itemId": 1744786830841,
+    "message": "Your item \"my heart\" may have been found.",
+    "date": "2025-04-16T07:02:50.506Z",
+    "read": true
+  },
+  {
+    "id": 1744786987521,
+    "fromUserId": 1744786873200,
+    "toUserId": 1744786660582,
+    "itemId": 1744786830841,
+    "message": "Your item \"my heart\" may have been found.",
+    "date": "2025-04-16T07:03:07.521Z",
+    "read": true
+  },
+  {
+    "id": 1744792717437,
+    "fromUserId": 1744786873200,
+    "toUserId": 1744786660582,
+    "itemId": 1744786830841,
+    "message": "Your item \"my heart\" may have been found.",
+    "date": "2025-04-16T08:38:37.437Z",
+    "read": true
+  },
+  {
+    "id": 1744793236281,
+    "fromUserId": 1744786660582,
+    "toUserId": 1744786873200,
+    "itemId": 1744793201084,
+    "message": "Your item \"hii\" may have been found.",
+    "date": "2025-04-16T08:47:16.281Z",
+    "read": true
+  },
+  {
+    "id": 1745804742678,
+    "fromUserId": 1745804569955,
+    "toUserId": 1745804543548,
+    "itemId": 1745804705888,
+    "message": "Your item \"wallet\" may have been found.",
+    "date": "2025-04-28T01:45:42.678Z",
+    "read": true
+  },
+  {
+    "id": 1748680608453,
+    "fromUserId": 1748680581138,
+    "toUserId": 1748680482858,
+    "itemId": 1748680562669,
+    "message": "Your item \"watch\" may have been found.",
+    "date": "2025-05-31T08:36:48.453Z",
+    "read": true
+  },
+  {
+    "id": 1752328504583,
+    "fromUserId": 1752328349580,
+    "toUserId": 1748680482858,
+    "itemId": 1752328063133,
+    "message": "Your item \"watch\" may have been found.",
+    "date": "2025-07-12T13:55:04.583Z",
+    "read": true
+  }
+]
