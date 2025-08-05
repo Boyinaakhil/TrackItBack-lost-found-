@@ -21,6 +21,9 @@ const io = socketIo(server, {
 });
 
 // Middlewares
+app.get('/', (req, res) => {
+  res.send('🚀 TrackItBack API is running!');
+});
 app.use(cors());
 app.use(express.json());
 
